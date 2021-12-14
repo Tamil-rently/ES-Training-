@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/linkedlist.dir/linked_list_implementation.c.o  -o linkedlist 
