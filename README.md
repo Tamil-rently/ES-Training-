@@ -3,7 +3,7 @@ Assignment 1 is stored in master branch
 
 # Assignment 2:
 "Create a git repo and add previous assignment there."
-
+this is readme
 In master branch the c source files(Assignment) are stored.
 
 # Assignment 3: 
